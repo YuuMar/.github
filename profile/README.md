@@ -12,3 +12,5 @@ A small team loafing and sleeping everytime😴
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
