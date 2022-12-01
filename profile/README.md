@@ -1,5 +1,7 @@
 ## Welcom to YuuMar Studio! 🎉🎉🎉
 
+(A small team loafing and sleeping everytime😴)
+
 <!--
 
 **Here are some ideas to get you started:**
