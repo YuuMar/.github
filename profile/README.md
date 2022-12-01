@@ -1,6 +1,6 @@
 ## Welcom to YuuMar Studio! 🎉🎉🎉
 
-(A small team loafing and sleeping everytime😴)
+A small team loafing and sleeping everytime😴
 
 <!--
 
